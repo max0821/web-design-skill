@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design"
+  short_description: "v1.2.1 · Visual-first web design and fidelity QA"
+  default_prompt: "Use $web-design to design or reconstruct this website with visual exploration, decomposition, asset locking, and render-based QA."
