@@ -150,7 +150,27 @@ web-design-skill/
 
 ## Install
 
+### Install with ChatGPT
+
+Paste this repository URL into ChatGPT:
+
+```text
+https://github.com/max0821/web-design-skill
+```
+
+Then say:
+
+```text
+Install the Agent Skill in /web-design from this repository.
+Preserve the original files, directory structure, and version.
+Ask me to confirm before installation.
+```
+
+On ChatGPT environments that support Skills and can read public GitHub repositories, ChatGPT may be able to prepare the Skill directly from the repository. Installation can still require an explicit confirmation step, and this flow may not be available on every account or client.
+
 ### From GitHub source
+
+If direct installation from the repository is not available:
 
 1. Clone or download this repository.
 2. Package the `web-design/` folder as a ZIP if your Skills interface requires an archive.
