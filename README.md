@@ -133,33 +133,30 @@ web-design-skill/
 ├── README.zh-TW.md
 ├── LICENSE
 ├── CHANGELOG.md
-├── web-design/
-│   ├── SKILL.md
-│   ├── README.md
-│   ├── README.zh-TW.md
-│   ├── LICENSE
-│   ├── agents/
-│   │   └── openai.yaml
-│   └── references/
-│       ├── design-system.md
-│       ├── visual-qa.md
-│       └── workflow-examples.md
-└── dist/
-    └── web-design-skill-v1.2.1.zip
+└── web-design/
+    ├── SKILL.md
+    ├── README.md
+    ├── README.zh-TW.md
+    ├── LICENSE
+    ├── agents/
+    │   └── openai.yaml
+    └── references/
+        ├── design-system.md
+        ├── visual-qa.md
+        └── workflow-examples.md
 ```
 
 ## Install
 
-### ChatGPT Skills UI
+### From GitHub source
 
-1. Download `dist/web-design-skill-v1.2.1.zip`.
-2. Open the Skills interface in ChatGPT.
-3. Import/upload the Skill package.
-4. Select `web-design` in a new chat and test it.
+1. Clone or download this repository.
+2. Package the `web-design/` folder as a ZIP if your Skills interface requires an archive.
+3. Open the Skills interface in ChatGPT or another compatible Agent Skills client.
+4. Import/upload the Skill.
+5. Select `web-design` in a new chat and test it.
 
-### Source installation
-
-The actual Skill folder is `web-design/`. The folder name intentionally matches `name: web-design` in `SKILL.md`.
+The actual Skill folder is `web-design/`. Its folder name intentionally matches `name: web-design` in `SKILL.md`.
 
 ## Quick version test
 
