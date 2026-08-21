@@ -133,31 +133,28 @@ web-design-skill/
 ├── README.zh-TW.md
 ├── LICENSE
 ├── CHANGELOG.md
-├── web-design/
-│   ├── SKILL.md
-│   ├── README.md
-│   ├── README.zh-TW.md
-│   ├── LICENSE
-│   ├── agents/
-│   │   └── openai.yaml
-│   └── references/
-│       ├── design-system.md
-│       ├── visual-qa.md
-│       └── workflow-examples.md
-└── dist/
-    └── web-design-skill-v1.2.1.zip
+└── web-design/
+    ├── SKILL.md
+    ├── README.md
+    ├── README.zh-TW.md
+    ├── LICENSE
+    ├── agents/
+    │   └── openai.yaml
+    └── references/
+        ├── design-system.md
+        ├── visual-qa.md
+        └── workflow-examples.md
 ```
 
 ## 安裝
 
-### ChatGPT Skills UI
+### 從 GitHub 原始碼安裝
 
-1. 下載 `dist/web-design-skill-v1.2.1.zip`。
-2. 在 ChatGPT 開啟 Skills 介面。
-3. 匯入／上傳 Skill ZIP。
-4. 在新對話選擇 `web-design` 後進行測試。
-
-### 原始碼安裝
+1. Clone 或下載這個 repository。
+2. 如果 Skills 介面要求 ZIP，將 `web-design/` 資料夾本身打包成 ZIP。
+3. 在 ChatGPT 或其他相容的 Agent Skills client 開啟 Skills 介面。
+4. 匯入／上傳 Skill。
+5. 在新對話選擇 `web-design` 後進行測試。
 
 實際 Skill 目錄為 `web-design/`，資料夾名稱與 `SKILL.md` 裡的 `name: web-design` 保持一致。
 
