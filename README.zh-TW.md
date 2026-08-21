@@ -2,6 +2,8 @@
 
 **繁體中文** · [English](README.md)
 
+![Web Design Skill](image.png)
+
 > 一套以「視覺設計優先」為核心的 Agent Skill：從 Art Direction、視覺稿核准、結構化拆解、素材鎖定，到 Responsive continuity 與 Render-based QA，把高品質網站設計真正落到可維護的前端實作。
 
 **目前版本：** v1.2.1  
