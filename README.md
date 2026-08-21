@@ -2,6 +2,8 @@
 
 [繁體中文](README.zh-TW.md) · **English**
 
+![Web Design Skill](image.png)
+
 > A visual-first Agent Skill for designing and reconstructing high-quality websites with explicit art direction, approved visual targets, structured decomposition, asset locking, responsive continuity, and render-based QA.
 
 **Current version:** v1.2.1  
