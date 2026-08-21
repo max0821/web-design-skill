@@ -150,7 +150,27 @@ web-design-skill/
 
 ## 安裝
 
+### 使用 ChatGPT 安裝
+
+把這個 GitHub repository URL 貼到 ChatGPT：
+
+```text
+https://github.com/max0821/web-design-skill
+```
+
+然後輸入：
+
+```text
+請安裝這個 repository 內 /web-design 的 Agent Skill。
+保留原始檔案、目錄結構與版本。
+完成後先讓我確認，再進行安裝。
+```
+
+在支援 Skills、且能讀取公開 GitHub repository 的 ChatGPT 環境中，ChatGPT 可能可以直接從這個 repository 準備 Skill。實際安裝仍可能需要使用者明確確認，而且並非所有帳號或 client 都一定支援這個流程。
+
 ### 從 GitHub 原始碼安裝
+
+如果無法直接從 repository 安裝：
 
 1. Clone 或下載這個 repository。
 2. 如果 Skills 介面要求 ZIP，將 `web-design/` 資料夾本身打包成 ZIP。
