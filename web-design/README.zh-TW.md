@@ -2,8 +2,9 @@
 
 [English](README.md) · **繁體中文**
 
-**版本：** 1.2.1  
-**作者：** max0821  
+**版本：** 1.3.0  
+**作者：** [max0821](https://github.com/max0821)  
+**官方來源：** https://github.com/max0821/web-design-skill  
 **授權：** MIT License  
 **商業使用：** 允許
 

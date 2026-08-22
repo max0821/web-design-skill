@@ -2,8 +2,9 @@
 
 **English** · [繁體中文](README.zh-TW.md)
 
-**Version:** 1.2.1  
-**Author:** max0821  
+**Version:** 1.3.0  
+**Author:** [max0821](https://github.com/max0821)  
+**Official source:** https://github.com/max0821/web-design-skill  
 **License:** MIT  
 **Commercial use:** Allowed
 

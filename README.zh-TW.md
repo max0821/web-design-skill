@@ -6,12 +6,17 @@
 
 > 一套以「視覺設計優先」為核心的 Agent Skill：從 Art Direction、視覺稿核准、結構化拆解、素材鎖定，到 Responsive continuity 與 Render-based QA，把高品質網站設計真正落到可維護的前端實作。
 
-**目前版本：** v1.2.1  
-**作者：** max0821  
+**目前版本：** v1.3.0  
+**作者：** [max0821](https://github.com/max0821)  
+**官方來源：** https://github.com/max0821/web-design-skill  
 **授權：** MIT License  
 **商業使用：** 允許
 
 這是社群自行建立的 Skill，並非 OpenAI 官方內建 Skill。
+
+## 發布與分發
+
+`web-design` 已整理為符合 Agent Skills 開放格式的 Skill，並準備 skill-only plugin 的送件資料。GitHub repository 維持為官方公開來源。送件資料見 [SUBMISSION.md](SUBMISSION.md)。
 
 ## 為什麼做這個 Skill
 
@@ -135,6 +140,13 @@ web-design-skill/
 ├── README.zh-TW.md
 ├── LICENSE
 ├── CHANGELOG.md
+├── SUBMISSION.md
+├── submission/
+│   ├── listing.en.md
+│   ├── listing.zh-TW.md
+│   └── review-notes.md
+├── dist/
+│   └── web-design-skill-v1.3.0.zip
 └── web-design/
     ├── SKILL.md
     ├── README.md
@@ -143,7 +155,13 @@ web-design-skill/
     ├── agents/
     │   └── openai.yaml
     └── references/
+        ├── approved-target-and-composition.md
+        ├── art-direction-and-exploration.md
+        ├── decomposition-and-assets.md
         ├── design-system.md
+        ├── render-fidelity-contract.md
+        ├── responsive-and-interaction.md
+        ├── visual-coherence-contract.md
         ├── visual-qa.md
         └── workflow-examples.md
 ```
@@ -196,9 +214,9 @@ https://github.com/max0821/web-design-skill
 6. 需求資訊不足時，你應該一次問完整問卷，還是採漸進式選項詢問？
 ```
 
-v1.2.1 應該能辨識出：
+v1.3.0 應該能辨識出：
 
-- `metadata.version: 1.2.1`
+- `metadata.version: 1.3.0`
 - Block / Layer / Text / Geometry Maps
 - Asset Resolution Plan
 - Local regeneration

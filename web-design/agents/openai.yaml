@@ -1,4 +1,4 @@
 interface:
   display_name: "Web Design"
-  short_description: "v1.2.1 · Visual-first web design and fidelity QA"
-  default_prompt: "Use $web-design to design or reconstruct this website with visual exploration, decomposition, asset locking, and render-based QA."
+  short_description: "v1.3.0 · Visual-first web design, fidelity & QA"
+  default_prompt: "Use $web-design for this web design task. Follow the conversation language, establish or confirm visual intent before final code, then decompose, resolve and lock assets, implement, render, and run visual QA."

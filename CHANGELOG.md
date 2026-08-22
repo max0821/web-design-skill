@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.3.0 — 2026-08-22
+
+### Added
+- Canonical source metadata and standards-aligned top-level MIT license field.
+- Discovery-oriented routing terms for redesign, screenshot-to-code, image-to-HTML, mockup-to-code, pixel-accurate frontend, responsive design, and visual QA.
+- Conversation-language rule.
+- Progressive-disclosure references for detailed design, decomposition, responsive, and render-fidelity contracts.
+- Plugin Directory submission pack and reviewer notes.
+
+### Changed
+- Main `SKILL.md` reduced below the recommended 500-line target while preserving detailed v1.2.1 rules in references.
+- Visible version and OpenAI interface description updated to `v1.3.0`.
+- MIT wording clarified to require retention of copyright and license notice.
+
+
 All notable changes to `web-design` are documented here.
 
 ## [1.2.1] - 2026-08-22
